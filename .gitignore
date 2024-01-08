@@ -20,3 +20,4 @@ test/dawg-builder-test.o
 test/ranked-completer-test
 test/ranked-completer-test.o
 *.cache
+configure
