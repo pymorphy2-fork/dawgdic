@@ -1,3 +1,5 @@
+ARCHIVED: use https://github.com/s-yata/dawgdic instead of this fork
+
 C++ Header Library of DAWG Dictionary Algorithm
 ==========
 
